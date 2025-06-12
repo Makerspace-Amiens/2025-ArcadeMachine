@@ -1,6 +1,6 @@
 ---
 title: Qu'est ce qu'une borne arcade et histoire de la borne arcade
-nav_order: 3
+nav_order: 2
 ---
 
 # La borne arcade
