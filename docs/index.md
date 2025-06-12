@@ -4,13 +4,18 @@ nav_order: 1
 title: Accueil
 ---
 
-# Bienvenue sur notre documentation
+#  Projet de borne arcade
 
+Bienvenue sur la documentation de notre projet de borne arcade.
 
+## Objectifs du projet
 
-Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+- Concevoir une borne d'arcade fonctionnelle
+- Réaliser l'assemblage du matériel
+- Installer et configurer les logiciels nécessaires
+- Documenter chaque étape de réalisation
 
-![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/illustration.png)
+Retrouvez toutes les étapes, choix techniques, photos et détails du projet dans les sections de gauche.
 
 ## À propos du Projet
 
@@ -24,14 +29,6 @@ Ici vous publierez le poster de votre projet.
 
 ## Vidéo
 
-Ici vous publierez la vidéo de votre projet. 
-- Moins de 1min30
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-- Si en stockage local : <50mo
 
 <video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
 
