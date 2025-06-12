@@ -6,7 +6,7 @@ title: Accueil
 
 # Bienvenue sur notre documentation
 
-# ok
+
 
 Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
