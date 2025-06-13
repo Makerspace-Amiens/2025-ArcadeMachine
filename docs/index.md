@@ -8,6 +8,9 @@ title: Accueil
 
 Bienvenue sur la documentation de notre projet de borne arcade.
 
+<img src="./images/borne.jpeg" alt="Ma borne arcade" style="width: 30%;">
+
+
 ## Objectifs du projet
 
 - Concevoir une borne d'arcade fonctionnelle
