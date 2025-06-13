@@ -26,7 +26,12 @@ Retrouvez toutes les étapes, choix techniques, photos et détails du projet dan
 
 ## Vidéo
 
-https://www.dropbox.com/scl/fi/bb3567ev14kaqg8rg9qp4/video.mp4?rlkey=lgvcdwlqa8ywrm3grd2c7aykf&st=drn8kqi4&dl=0
+
+<video width="720" height="480" controls>
+  <source src="https://dl.dropboxusercontent.com/scl/fi/bb3567ev14kaqg8rg9qp4/video.mp4?rlkey=lgvcdwlqa8ywrm3grd2c7aykf&st=drn8kqi4" type="video/mp4">
+  Votre navigateur ne supporte pas la lecture vidéo.
+</video>
+
 
 
 ---
