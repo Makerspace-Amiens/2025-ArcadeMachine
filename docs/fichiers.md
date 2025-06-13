@@ -22,5 +22,12 @@ Vous trouverez ci-dessous l'ensemble des fichiers DXF utilisés pour la découpe
 - [Support](./files/dxf/support.dxf)
 - [Son](./files/dxf/son.dxf)
 
+- ## Fichier de la conception de la deuxième manette
+
+- [Côté droit](./files/dxf/COTEDROIT.stl)
+- [Côté gauche](./files/dxf/COTEGAUCHE.stl)
+- [Devant](./files/dxf/DEVANT.stl)
+- 
+
 ---
 
