@@ -89,7 +89,7 @@ Sécurité électrique renforcée et meilleure stabilité lors des longues sessi
 
 ## Choix du système d’exploitation : Recalbox
 
-<img src="./images/recalbox.png" style="width: 25%;">
+<img src="./images/Recalbox.png" style="width: 25%;">
 
 Nous avons sélectionné Recalbox comme système d'exploitation pour plusieurs raisons :
 
