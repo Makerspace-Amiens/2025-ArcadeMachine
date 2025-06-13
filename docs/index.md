@@ -17,9 +17,7 @@ Bienvenue sur la documentation de notre projet de borne arcade.
 
 Retrouvez toutes les étapes, choix techniques, photos et détails du projet dans les sections de gauche.
 
-## À propos du Projet
 
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
 
 ## Poster
 
