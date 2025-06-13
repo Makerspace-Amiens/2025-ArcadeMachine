@@ -12,7 +12,7 @@ Vous trouverez ci-dessous l'ensemble des fichiers DXF utilisés pour la découpe
 - [Côté](./files/dxf/coté.dxf)
 - [Côté LL](./files/dxf/cotéLL.dxf)
 - [Dos](./files/dxf/dos.dxf)
-- [Dos fin](./files/dxf/dos_fin.dxf)
+- [Dos fin](./files/dxf/dosfin.dxf)
 - [Doublon](./files/dxf/doublon.dxf)
 - [Gravure](./files/dxf/gravure.dxf)
 - [Haut acrylique](./files/dxf/acri.dxf)
