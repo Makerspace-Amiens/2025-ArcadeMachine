@@ -5,6 +5,9 @@ nav_order: 2
 
 # La borne arcade
 
+<img src="./images/borne.jpg" style="width: 50%;">
+
+
 ## Qu’est-ce qu’une borne d’arcade ?
 
 Une borne d’arcade est une machine de jeu vidéo autonome, conçue pour fonctionner dans des espaces publics (salles d’arcade, cafés, bars, etc.).
