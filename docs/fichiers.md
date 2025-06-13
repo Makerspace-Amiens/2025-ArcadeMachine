@@ -9,8 +9,8 @@ Vous trouverez ci-dessous l'ensemble des fichiers DXF utilisés pour la découpe
 
 ##  Liste des fichiers disponibles
 
-- [Côté](./files/dxf/cote.dxf)
-- [Côté LL](./files/dxf/coteLL.dxf)
+- [Côté](./files/dxf/coté.dxf)
+- [Côté LL](./files/dxf/cotéLL.dxf)
 - [Dos](./files/dxf/dos.dxf)
 - [Dos fin](./files/dxf/dos_fin.dxf)
 - [Doublon](./files/dxf/doublon.dxf)
