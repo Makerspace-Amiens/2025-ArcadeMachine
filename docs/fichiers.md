@@ -17,7 +17,7 @@ Vous trouverez ci-dessous l'ensemble des fichiers DXF utilisés pour la découpe
 - [Gravure](./files/dxf/gravure.dxf)
 - [Haut acrylique](./files/dxf/acri.dxf)
 - [Haut-parleur](./files/dxf/hautparleur.dxf)
-- [Part Studio 1 - Part 6](./files/dxf/part_studio_1_part_6.dxf)
+- [Part Studio 1 - Part 6](./files/dxf/part.dxf)
 - [Planche face](./files/dxf/plancheface.dxf)
 - [Support](./files/dxf/support.dxf)
 - [Son](./files/dxf/son.dxf)
