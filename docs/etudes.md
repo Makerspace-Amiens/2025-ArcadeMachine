@@ -24,7 +24,7 @@ Renforcement des fixations avec du collage sur les zones trop fines pour les vis
 
 ## Choix du système central : Raspberry Pi 5
 
-<img src="./images/raspberry.jpg" style="width: 60%;">
+<img src="./images/raspberry.jpg" style="width: 30%;">
 
 
 Afin de faire fonctionner la borne d’arcade, nous avons comparé plusieurs micro-ordinateurs de type Raspberry Pi. Après étude, nous avons retenu le Raspberry Pi 5 pour plusieurs raisons :
