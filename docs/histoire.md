@@ -5,7 +5,7 @@ nav_order: 2
 
 # La borne arcade
 
-<img src="./images/borne.jpg" style="width: 50%;">
+<img src="./images/borne.jpg" style="width: 30%;">
 
 
 ## Qu’est-ce qu’une borne d’arcade ?
