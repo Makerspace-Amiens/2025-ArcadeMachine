@@ -27,7 +27,9 @@ Vous trouverez ci-dessous l'ensemble des fichiers DXF utilisés pour la découpe
 - [Côté droit](./files/dxf/COTEDROIT.stl)
 - [Côté gauche](./files/dxf/COTEGAUCHE.stl)
 - [Devant](./files/dxf/DEVANT.stl)
-- 
+- [Haut](./files/dxf/Manette_haut6.stl)
+- [Arrière](./files/dxf/ManetteARRIERE.stl)
+- [Dessous](./files/dxf/MANETTEDESSOUS1.stl)
 
 ---
 
